@@ -21,8 +21,8 @@ Sigue estos pasos para ejecutar el proyecto en tu computadora.
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/akrodriguezs/proyecto-1.git
-cd proyecto-1
+git clone https://github.com/akrodriguezs/py-spreadsheet.git
+cd py-spreadsheet
 
 
 ---
